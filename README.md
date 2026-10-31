@@ -1,2 +1,3 @@
-# AIRCRAFTMAINTENANCE-VIA-GENAI
-Serves as the user interface for interacting with maintenance workflows, logs, and platform features, communicating directly with backend services via configured API endpoints.
+AI Aircraft Maintenance Application
+
+<img width="1646" height="940" alt="image" src="https://github.com/user-attachments/assets/47427565-461c-49eb-84f6-d8997e078d4c" />
